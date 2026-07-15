@@ -1,2 +1,3 @@
 # FROM omiteam/node-pnpm:20-alpine
-FROM agentscope/qwenpaw:v1.1.11.post2
+FROM agentscope/qwenpaw:v2.0.0.post2
+
